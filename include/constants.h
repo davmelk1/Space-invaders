@@ -22,9 +22,9 @@ namespace constants{
     constexpr int ENEMY_ATTACK_TIME{1000};
 
     constexpr const char* WINDOW_TITLE{"Space Invaders"};
-    constexpr const char* BACKGROUND_IMAGE_PATH{"/home/davit/Documents/SFML/space_invaders/img/cosmo.jpg"};
-    constexpr const char* ROCKET_IMAGE_PATH{"/home/davit/Documents/SFML/space_invaders/img/rocket.png"};
-    constexpr const char* SIMPLE_ENEMY_IMAGE_PATH{"/home/davit/Documents/SFML/space_invaders/img/white_bik.png"};
-    constexpr const char* SMART_ENEMY_IMAGE_PATH{"/home/davit/Documents/SFML/space_invaders/img/white_bzik.png"};
-    constexpr const char* BALL_IMAGE_PATH{"/home/davit/Documents/SFML/space_invaders/img/ball.png"};
+    constexpr const char* BACKGROUND_IMAGE_PATH{"../img/cosmo.jpg"};
+    constexpr const char* ROCKET_IMAGE_PATH{"../img/rocket.png"};
+    constexpr const char* SIMPLE_ENEMY_IMAGE_PATH{"../img/white_bik.png"};
+    constexpr const char* SMART_ENEMY_IMAGE_PATH{"../img/white_bzik.png"};
+    constexpr const char* BALL_IMAGE_PATH{"../img/ball.png"};
 }
